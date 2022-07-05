@@ -16,5 +16,8 @@
   "bugs": {
     "url": "https://github.com/RikiyaOta/zenn/issues"
   },
-  "homepage": "https://github.com/RikiyaOta/zenn#readme"
+  "homepage": "https://github.com/RikiyaOta/zenn#readme",
+  "dependencies": {
+    "zenn-cli": "^0.1.114"
+  }
 }
