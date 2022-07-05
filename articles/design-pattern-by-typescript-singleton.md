@@ -3,7 +3,7 @@ title: "TypeScript で DesignPattern を学んでみる〜SingletonPattern編〜
 emoji: "🛠"
 type: "tech" # tech: 技術記事 / idea: アイデア
 topics: ["typescript", "designpattern", "singleton"]
-published: false
+published: true
 ---
 
 # はじめに
