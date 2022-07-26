@@ -635,3 +635,8 @@ $ awslocal apigateway test-invoke-method \
     }
 }
 ```
+
+# TODO
+
+- [ ] Implement Lambda function, using S3 and DynamoDB.
+- [ ] Deploy API Gateway.
